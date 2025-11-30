@@ -1,0 +1,31 @@
+types {
+    text/html                             html htm shtml;
+    text/css                              css;
+    text/xml                              xml;
+    image/gif                             gif;
+    image/jpeg                            jpeg jpg;
+    application/javascript                js;
+    application/atom+xml                  atom;
+    application/rss+xml                   rss;
+
+    text/plain                            txt;
+    text/mathml                           mml;
+    text/x-component                      htc;
+
+    image/png                             png;
+    image/svg+xml                         svg svgz;
+    image/tiff                            tif tiff;
+    image/vnd.wap.wbmp                    wbmp;
+    image/webp                            webp;
+    image/x-icon                          ico;
+    image/x-jng                           jng;
+    image/x-ms-bmp                        bmp;
+
+    font/woff                             woff;
+    font/woff2                            woff2;
+
+    application/json                      json;
+    application/x-web-app-manifest+json   webapp;
+    application/xml-dtd                   dtd;
+    application/zip                       zip;
+}

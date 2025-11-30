@@ -1,0 +1,36 @@
+schemaVersion: v0.2
+prepare:
+  steps:
+    - name: Install PHP and MariaDB (only for client)
+      command: nix-env -iA nixpkgs.php83 nixpkgs.nginx nixpkgs.php83Packages.composer
+        nixpkgs.mariadb_114
+    - name: Install locales
+      command: nix-env -iA nixpkgs.glibcLocalesUtf8
+    - name: Export locales
+      command: export LOCALE_ARCHIVE="$(nix-env --installed --no-name --out-path
+        --query glibc-locales)/lib/locale/locale-archive"
+    - name: Create composer project
+      command: '[ -d pimcore ] && echo "✅ Project already exists. Skipping." ||
+        COMPOSER_MEMORY_LIMIT=-1 composer create-project pimcore/demo pimcore'
+    - name: Pimcore install
+      command: cd pimcore && ./vendor/bin/pimcore-install --no-interaction
+test:
+  steps: []
+run:
+  pimcore:
+    steps:
+      - name: Create tmp directories for nginx
+        command: mkdir -p /tmp/nginx_{proxy,fastcgi,uwsgi,scgi}
+      - name: Kill PHP
+        command: pkill php || echo "PHP not yet running..."
+      - name: Start PHP-FPM
+        command: php-fpm -y /home/user/app/config/php/pimcore.conf
+      - name: Start nginx
+        command: nginx -c /home/user/app/config/nginx/pimcore.conf
+    plan: 201
+    replicas: 1
+    network:
+      ports:
+        - port: 3000
+          isPublic: false
+      paths: []

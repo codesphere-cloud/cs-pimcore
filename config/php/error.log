@@ -1,0 +1,1195 @@
+[30-Nov-2025 18:32:05] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:05] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:05] ERROR: FPM initialization failed
+[30-Nov-2025 18:32:12] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:12] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:12] ERROR: FPM initialization failed
+[30-Nov-2025 18:32:17] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:17] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:17] ERROR: FPM initialization failed
+[30-Nov-2025 18:32:22] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:22] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:22] ERROR: FPM initialization failed
+[30-Nov-2025 18:32:27] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:27] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:27] ERROR: FPM initialization failed
+[30-Nov-2025 18:32:32] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:32] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:32] ERROR: FPM initialization failed
+[30-Nov-2025 18:32:37] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:37] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:37] ERROR: FPM initialization failed
+[30-Nov-2025 18:32:42] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:42] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:42] ERROR: FPM initialization failed
+[30-Nov-2025 18:32:47] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:47] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:47] ERROR: FPM initialization failed
+[30-Nov-2025 18:32:52] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:52] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:52] ERROR: FPM initialization failed
+[30-Nov-2025 18:32:57] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:32:57] ERROR: failed to post process the configuration
+[30-Nov-2025 18:32:57] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:02] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:02] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:02] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:07] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:07] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:07] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:12] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:12] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:12] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:17] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:17] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:17] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:22] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:22] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:22] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:27] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:27] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:27] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:32] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:32] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:32] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:36] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:36] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:36] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:41] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:41] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:41] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:47] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:47] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:47] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:52] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:52] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:52] ERROR: FPM initialization failed
+[30-Nov-2025 18:33:57] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:33:57] ERROR: failed to post process the configuration
+[30-Nov-2025 18:33:57] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:02] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:02] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:02] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:07] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:07] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:07] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:12] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:12] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:12] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:17] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:17] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:17] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:22] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:22] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:22] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:27] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:27] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:27] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:32] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:32] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:32] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:37] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:37] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:37] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:42] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:42] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:42] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:47] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:47] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:47] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:53] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:53] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:53] ERROR: FPM initialization failed
+[30-Nov-2025 18:34:58] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:34:58] ERROR: failed to post process the configuration
+[30-Nov-2025 18:34:58] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:03] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:03] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:03] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:08] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:08] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:08] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:13] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:13] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:13] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:18] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:18] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:18] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:23] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:23] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:23] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:28] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:28] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:28] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:33] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:33] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:33] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:38] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:38] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:38] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:42] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:42] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:42] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:47] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:47] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:47] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:52] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:52] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:52] ERROR: FPM initialization failed
+[30-Nov-2025 18:35:58] ALERT: [pool pimcore] pm.max_spare_servers(0) must be a positive value
+[30-Nov-2025 18:35:58] ERROR: failed to post process the configuration
+[30-Nov-2025 18:35:58] ERROR: FPM initialization failed
+[30-Nov-2025 18:36:03] NOTICE: fpm is running, pid 740
+[30-Nov-2025 18:36:03] NOTICE: ready to handle connections
+[30-Nov-2025 18:36:03] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:36:08] NOTICE: Terminating ...
+[30-Nov-2025 18:36:08] NOTICE: exiting, bye-bye!
+[30-Nov-2025 18:36:09] NOTICE: fpm is running, pid 756
+[30-Nov-2025 18:36:09] NOTICE: ready to handle connections
+[30-Nov-2025 18:36:09] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:36:15] NOTICE: Terminating ...
+[30-Nov-2025 18:36:15] NOTICE: exiting, bye-bye!
+[30-Nov-2025 18:36:16] NOTICE: fpm is running, pid 772
+[30-Nov-2025 18:36:16] NOTICE: ready to handle connections
+[30-Nov-2025 18:36:16] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:36:21] NOTICE: Terminating ...
+[30-Nov-2025 18:36:21] NOTICE: exiting, bye-bye!
+[30-Nov-2025 18:36:23] NOTICE: fpm is running, pid 788
+[30-Nov-2025 18:36:23] NOTICE: ready to handle connections
+[30-Nov-2025 18:36:23] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:36:27] NOTICE: Terminating ...
+[30-Nov-2025 18:36:27] NOTICE: exiting, bye-bye!
+[30-Nov-2025 18:36:29] NOTICE: fpm is running, pid 804
+[30-Nov-2025 18:36:29] NOTICE: ready to handle connections
+[30-Nov-2025 18:36:29] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:36:33] NOTICE: Terminating ...
+[30-Nov-2025 18:36:33] NOTICE: exiting, bye-bye!
+[30-Nov-2025 18:36:35] NOTICE: fpm is running, pid 820
+[30-Nov-2025 18:36:35] NOTICE: ready to handle connections
+[30-Nov-2025 18:36:35] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:36:39] NOTICE: Terminating ...
+[30-Nov-2025 18:36:39] NOTICE: exiting, bye-bye!
+[30-Nov-2025 18:36:41] NOTICE: fpm is running, pid 836
+[30-Nov-2025 18:36:41] NOTICE: ready to handle connections
+[30-Nov-2025 18:36:41] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:36:45] NOTICE: Terminating ...
+[30-Nov-2025 18:36:45] NOTICE: exiting, bye-bye!
+[30-Nov-2025 18:36:47] NOTICE: fpm is running, pid 852
+[30-Nov-2025 18:36:47] NOTICE: ready to handle connections
+[30-Nov-2025 18:36:47] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:36:52] NOTICE: Terminating ...
+[30-Nov-2025 18:36:52] NOTICE: exiting, bye-bye!
+[30-Nov-2025 18:36:53] NOTICE: fpm is running, pid 868
+[30-Nov-2025 18:36:53] NOTICE: ready to handle connections
+[30-Nov-2025 18:36:53] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:36:58] NOTICE: Terminating ...
+[30-Nov-2025 18:36:58] NOTICE: exiting, bye-bye!
+[30-Nov-2025 18:36:59] NOTICE: fpm is running, pid 884
+[30-Nov-2025 18:36:59] NOTICE: ready to handle connections
+[30-Nov-2025 18:36:59] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:37:30] NOTICE: Terminating ...
+[30-Nov-2025 18:37:30] NOTICE: exiting, bye-bye!
+[30-Nov-2025 18:37:31] NOTICE: fpm is running, pid 902
+[30-Nov-2025 18:37:31] NOTICE: ready to handle connections
+[30-Nov-2025 18:37:31] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 18:38:11] WARNING: [pool pimcore] server reached pm.max_children setting (5), consider raising it
+[30-Nov-2025 19:14:46] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:14:48] NOTICE: fpm is running, pid 922
+[30-Nov-2025 19:14:48] NOTICE: ready to handle connections
+[30-Nov-2025 19:14:48] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:14:52] NOTICE: Terminating ...
+[30-Nov-2025 19:14:52] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:14:53] NOTICE: fpm is running, pid 938
+[30-Nov-2025 19:14:53] NOTICE: ready to handle connections
+[30-Nov-2025 19:14:53] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:14:58] NOTICE: Terminating ...
+[30-Nov-2025 19:14:58] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:14:59] NOTICE: fpm is running, pid 954
+[30-Nov-2025 19:14:59] NOTICE: ready to handle connections
+[30-Nov-2025 19:14:59] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:15:05] NOTICE: Terminating ...
+[30-Nov-2025 19:15:05] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:15:06] NOTICE: fpm is running, pid 970
+[30-Nov-2025 19:15:06] NOTICE: ready to handle connections
+[30-Nov-2025 19:15:06] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:15:11] NOTICE: Terminating ...
+[30-Nov-2025 19:15:11] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:15:12] NOTICE: fpm is running, pid 986
+[30-Nov-2025 19:15:12] NOTICE: ready to handle connections
+[30-Nov-2025 19:15:12] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:15:17] NOTICE: Terminating ...
+[30-Nov-2025 19:15:17] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:15:18] NOTICE: fpm is running, pid 1002
+[30-Nov-2025 19:15:18] NOTICE: ready to handle connections
+[30-Nov-2025 19:15:18] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:15:23] NOTICE: Terminating ...
+[30-Nov-2025 19:15:23] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:15:24] NOTICE: fpm is running, pid 1018
+[30-Nov-2025 19:15:24] NOTICE: ready to handle connections
+[30-Nov-2025 19:15:24] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:15:29] NOTICE: Terminating ...
+[30-Nov-2025 19:15:29] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:15:30] NOTICE: fpm is running, pid 1034
+[30-Nov-2025 19:15:30] NOTICE: ready to handle connections
+[30-Nov-2025 19:15:30] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:15:35] NOTICE: Terminating ...
+[30-Nov-2025 19:15:35] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:15:35] NOTICE: fpm is running, pid 1050
+[30-Nov-2025 19:15:35] NOTICE: ready to handle connections
+[30-Nov-2025 19:15:35] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:15:40] NOTICE: Terminating ...
+[30-Nov-2025 19:15:40] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:15:41] NOTICE: fpm is running, pid 1066
+[30-Nov-2025 19:15:41] NOTICE: ready to handle connections
+[30-Nov-2025 19:15:41] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:15:46] NOTICE: Terminating ...
+[30-Nov-2025 19:15:46] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:15:47] NOTICE: fpm is running, pid 1082
+[30-Nov-2025 19:15:47] NOTICE: ready to handle connections
+[30-Nov-2025 19:15:47] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:15:52] NOTICE: Terminating ...
+[30-Nov-2025 19:15:52] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:15:53] NOTICE: fpm is running, pid 1098
+[30-Nov-2025 19:15:53] NOTICE: ready to handle connections
+[30-Nov-2025 19:15:53] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:15:58] NOTICE: Terminating ...
+[30-Nov-2025 19:15:58] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:15:59] NOTICE: fpm is running, pid 1114
+[30-Nov-2025 19:15:59] NOTICE: ready to handle connections
+[30-Nov-2025 19:15:59] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:16:04] NOTICE: Terminating ...
+[30-Nov-2025 19:16:04] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:16:06] NOTICE: fpm is running, pid 1130
+[30-Nov-2025 19:16:06] NOTICE: ready to handle connections
+[30-Nov-2025 19:16:06] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:16:11] NOTICE: Terminating ...
+[30-Nov-2025 19:16:11] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:16:12] NOTICE: fpm is running, pid 1146
+[30-Nov-2025 19:16:12] NOTICE: ready to handle connections
+[30-Nov-2025 19:16:12] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:16:17] NOTICE: Terminating ...
+[30-Nov-2025 19:16:17] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:16:18] NOTICE: fpm is running, pid 1162
+[30-Nov-2025 19:16:18] NOTICE: ready to handle connections
+[30-Nov-2025 19:16:18] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:16:23] NOTICE: Terminating ...
+[30-Nov-2025 19:16:23] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:16:24] NOTICE: fpm is running, pid 1178
+[30-Nov-2025 19:16:24] NOTICE: ready to handle connections
+[30-Nov-2025 19:16:24] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:16:29] NOTICE: Terminating ...
+[30-Nov-2025 19:16:29] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:16:30] NOTICE: fpm is running, pid 1194
+[30-Nov-2025 19:16:30] NOTICE: ready to handle connections
+[30-Nov-2025 19:16:30] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:16:35] NOTICE: Terminating ...
+[30-Nov-2025 19:16:35] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:16:36] NOTICE: fpm is running, pid 1210
+[30-Nov-2025 19:16:36] NOTICE: ready to handle connections
+[30-Nov-2025 19:16:36] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:16:41] NOTICE: Terminating ...
+[30-Nov-2025 19:16:41] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:16:42] NOTICE: fpm is running, pid 1226
+[30-Nov-2025 19:16:42] NOTICE: ready to handle connections
+[30-Nov-2025 19:16:42] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:16:47] NOTICE: Terminating ...
+[30-Nov-2025 19:16:47] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:16:48] NOTICE: fpm is running, pid 1242
+[30-Nov-2025 19:16:48] NOTICE: ready to handle connections
+[30-Nov-2025 19:16:48] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:16:53] NOTICE: Terminating ...
+[30-Nov-2025 19:16:53] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:16:54] NOTICE: fpm is running, pid 1258
+[30-Nov-2025 19:16:54] NOTICE: ready to handle connections
+[30-Nov-2025 19:16:54] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:16:59] NOTICE: Terminating ...
+[30-Nov-2025 19:16:59] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:17:00] NOTICE: fpm is running, pid 1274
+[30-Nov-2025 19:17:00] NOTICE: ready to handle connections
+[30-Nov-2025 19:17:00] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:17:05] NOTICE: Terminating ...
+[30-Nov-2025 19:17:05] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:17:07] NOTICE: fpm is running, pid 1290
+[30-Nov-2025 19:17:07] NOTICE: ready to handle connections
+[30-Nov-2025 19:17:07] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:00] NOTICE: Terminating ...
+[30-Nov-2025 19:18:00] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:18:01] NOTICE: fpm is running, pid 1303
+[30-Nov-2025 19:18:01] NOTICE: ready to handle connections
+[30-Nov-2025 19:18:01] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:06] NOTICE: Terminating ...
+[30-Nov-2025 19:18:06] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:18:07] NOTICE: fpm is running, pid 1319
+[30-Nov-2025 19:18:07] NOTICE: ready to handle connections
+[30-Nov-2025 19:18:07] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:12] NOTICE: Terminating ...
+[30-Nov-2025 19:18:12] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:18:13] NOTICE: fpm is running, pid 1335
+[30-Nov-2025 19:18:13] NOTICE: ready to handle connections
+[30-Nov-2025 19:18:13] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:18] NOTICE: Terminating ...
+[30-Nov-2025 19:18:18] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:18:20] NOTICE: fpm is running, pid 1351
+[30-Nov-2025 19:18:20] NOTICE: ready to handle connections
+[30-Nov-2025 19:18:20] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:25] NOTICE: Terminating ...
+[30-Nov-2025 19:18:25] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:18:26] NOTICE: fpm is running, pid 1367
+[30-Nov-2025 19:18:26] NOTICE: ready to handle connections
+[30-Nov-2025 19:18:26] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:31] NOTICE: Terminating ...
+[30-Nov-2025 19:18:31] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:18:32] NOTICE: fpm is running, pid 1383
+[30-Nov-2025 19:18:32] NOTICE: ready to handle connections
+[30-Nov-2025 19:18:32] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:37] NOTICE: Terminating ...
+[30-Nov-2025 19:18:37] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:18:38] NOTICE: fpm is running, pid 1399
+[30-Nov-2025 19:18:38] NOTICE: ready to handle connections
+[30-Nov-2025 19:18:38] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:42] NOTICE: Terminating ...
+[30-Nov-2025 19:18:42] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:18:43] NOTICE: fpm is running, pid 1415
+[30-Nov-2025 19:18:43] NOTICE: ready to handle connections
+[30-Nov-2025 19:18:43] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:47] NOTICE: Terminating ...
+[30-Nov-2025 19:18:47] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:18:48] NOTICE: fpm is running, pid 1431
+[30-Nov-2025 19:18:48] NOTICE: ready to handle connections
+[30-Nov-2025 19:18:48] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:53] NOTICE: Terminating ...
+[30-Nov-2025 19:18:53] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:18:54] NOTICE: fpm is running, pid 1447
+[30-Nov-2025 19:18:54] NOTICE: ready to handle connections
+[30-Nov-2025 19:18:54] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:18:59] NOTICE: Terminating ...
+[30-Nov-2025 19:18:59] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:19:00] NOTICE: fpm is running, pid 1463
+[30-Nov-2025 19:19:00] NOTICE: ready to handle connections
+[30-Nov-2025 19:19:00] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:19:05] NOTICE: Terminating ...
+[30-Nov-2025 19:19:05] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:19:06] NOTICE: fpm is running, pid 1479
+[30-Nov-2025 19:19:06] NOTICE: ready to handle connections
+[30-Nov-2025 19:19:06] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:19:11] NOTICE: Terminating ...
+[30-Nov-2025 19:19:11] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:19:12] NOTICE: fpm is running, pid 1495
+[30-Nov-2025 19:19:12] NOTICE: ready to handle connections
+[30-Nov-2025 19:19:12] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:19:18] NOTICE: Terminating ...
+[30-Nov-2025 19:19:18] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:19:19] NOTICE: fpm is running, pid 1511
+[30-Nov-2025 19:19:19] NOTICE: ready to handle connections
+[30-Nov-2025 19:19:19] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:19:24] NOTICE: Terminating ...
+[30-Nov-2025 19:19:24] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:19:25] NOTICE: fpm is running, pid 1527
+[30-Nov-2025 19:19:25] NOTICE: ready to handle connections
+[30-Nov-2025 19:19:25] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:19:30] NOTICE: Terminating ...
+[30-Nov-2025 19:19:30] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:19:31] NOTICE: fpm is running, pid 1543
+[30-Nov-2025 19:19:31] NOTICE: ready to handle connections
+[30-Nov-2025 19:19:31] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:19:36] NOTICE: Terminating ...
+[30-Nov-2025 19:19:36] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:19:37] NOTICE: fpm is running, pid 1559
+[30-Nov-2025 19:19:37] NOTICE: ready to handle connections
+[30-Nov-2025 19:19:37] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:19:42] NOTICE: Terminating ...
+[30-Nov-2025 19:19:42] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:19:43] NOTICE: fpm is running, pid 1575
+[30-Nov-2025 19:19:43] NOTICE: ready to handle connections
+[30-Nov-2025 19:19:43] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:19:48] NOTICE: Terminating ...
+[30-Nov-2025 19:19:48] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:19:49] NOTICE: fpm is running, pid 1591
+[30-Nov-2025 19:19:49] NOTICE: ready to handle connections
+[30-Nov-2025 19:19:49] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:19:54] NOTICE: Terminating ...
+[30-Nov-2025 19:19:54] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:19:55] NOTICE: fpm is running, pid 1607
+[30-Nov-2025 19:19:55] NOTICE: ready to handle connections
+[30-Nov-2025 19:19:55] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:00] NOTICE: Terminating ...
+[30-Nov-2025 19:20:00] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:20:01] NOTICE: fpm is running, pid 1623
+[30-Nov-2025 19:20:01] NOTICE: ready to handle connections
+[30-Nov-2025 19:20:01] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:06] NOTICE: Terminating ...
+[30-Nov-2025 19:20:06] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:20:07] NOTICE: fpm is running, pid 1639
+[30-Nov-2025 19:20:07] NOTICE: ready to handle connections
+[30-Nov-2025 19:20:07] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:12] NOTICE: Terminating ...
+[30-Nov-2025 19:20:12] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:20:14] NOTICE: fpm is running, pid 1655
+[30-Nov-2025 19:20:14] NOTICE: ready to handle connections
+[30-Nov-2025 19:20:14] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:19] NOTICE: Terminating ...
+[30-Nov-2025 19:20:19] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:20:20] NOTICE: fpm is running, pid 1671
+[30-Nov-2025 19:20:20] NOTICE: ready to handle connections
+[30-Nov-2025 19:20:20] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:25] NOTICE: Terminating ...
+[30-Nov-2025 19:20:25] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:20:26] NOTICE: fpm is running, pid 1687
+[30-Nov-2025 19:20:26] NOTICE: ready to handle connections
+[30-Nov-2025 19:20:26] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:30] NOTICE: Terminating ...
+[30-Nov-2025 19:20:30] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:20:31] NOTICE: fpm is running, pid 1703
+[30-Nov-2025 19:20:31] NOTICE: ready to handle connections
+[30-Nov-2025 19:20:31] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:36] NOTICE: Terminating ...
+[30-Nov-2025 19:20:36] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:20:37] NOTICE: fpm is running, pid 1719
+[30-Nov-2025 19:20:37] NOTICE: ready to handle connections
+[30-Nov-2025 19:20:37] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:42] NOTICE: Terminating ...
+[30-Nov-2025 19:20:42] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:20:43] NOTICE: fpm is running, pid 1735
+[30-Nov-2025 19:20:43] NOTICE: ready to handle connections
+[30-Nov-2025 19:20:43] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:48] NOTICE: Terminating ...
+[30-Nov-2025 19:20:48] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:20:49] NOTICE: fpm is running, pid 1751
+[30-Nov-2025 19:20:49] NOTICE: ready to handle connections
+[30-Nov-2025 19:20:49] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:53] NOTICE: Terminating ...
+[30-Nov-2025 19:20:53] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:20:54] NOTICE: fpm is running, pid 1767
+[30-Nov-2025 19:20:54] NOTICE: ready to handle connections
+[30-Nov-2025 19:20:54] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:20:59] NOTICE: Terminating ...
+[30-Nov-2025 19:20:59] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:21:00] NOTICE: fpm is running, pid 1783
+[30-Nov-2025 19:21:00] NOTICE: ready to handle connections
+[30-Nov-2025 19:21:00] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:21:04] NOTICE: Terminating ...
+[30-Nov-2025 19:21:04] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:21:06] NOTICE: fpm is running, pid 1799
+[30-Nov-2025 19:21:06] NOTICE: ready to handle connections
+[30-Nov-2025 19:21:06] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:21:11] NOTICE: Terminating ...
+[30-Nov-2025 19:21:11] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:21:12] NOTICE: fpm is running, pid 1815
+[30-Nov-2025 19:21:12] NOTICE: ready to handle connections
+[30-Nov-2025 19:21:12] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:21:17] NOTICE: Terminating ...
+[30-Nov-2025 19:21:17] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:21:18] NOTICE: fpm is running, pid 1831
+[30-Nov-2025 19:21:18] NOTICE: ready to handle connections
+[30-Nov-2025 19:21:18] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:21:23] NOTICE: Terminating ...
+[30-Nov-2025 19:21:23] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:21:24] NOTICE: fpm is running, pid 1847
+[30-Nov-2025 19:21:24] NOTICE: ready to handle connections
+[30-Nov-2025 19:21:24] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:21:29] NOTICE: Terminating ...
+[30-Nov-2025 19:21:29] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:21:30] NOTICE: fpm is running, pid 1863
+[30-Nov-2025 19:21:30] NOTICE: ready to handle connections
+[30-Nov-2025 19:21:30] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:21:35] NOTICE: Terminating ...
+[30-Nov-2025 19:21:35] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:21:36] NOTICE: fpm is running, pid 1879
+[30-Nov-2025 19:21:36] NOTICE: ready to handle connections
+[30-Nov-2025 19:21:36] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:21:41] NOTICE: Terminating ...
+[30-Nov-2025 19:21:41] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:21:42] NOTICE: fpm is running, pid 1895
+[30-Nov-2025 19:21:42] NOTICE: ready to handle connections
+[30-Nov-2025 19:21:42] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:21:47] NOTICE: Terminating ...
+[30-Nov-2025 19:21:47] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:21:48] NOTICE: fpm is running, pid 1911
+[30-Nov-2025 19:21:48] NOTICE: ready to handle connections
+[30-Nov-2025 19:21:48] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:21:53] NOTICE: Terminating ...
+[30-Nov-2025 19:21:53] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:21:54] NOTICE: fpm is running, pid 1927
+[30-Nov-2025 19:21:54] NOTICE: ready to handle connections
+[30-Nov-2025 19:21:54] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:21:59] NOTICE: Terminating ...
+[30-Nov-2025 19:21:59] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:22:01] NOTICE: fpm is running, pid 1943
+[30-Nov-2025 19:22:01] NOTICE: ready to handle connections
+[30-Nov-2025 19:22:01] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:22:06] NOTICE: Terminating ...
+[30-Nov-2025 19:22:06] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:22:07] NOTICE: fpm is running, pid 1959
+[30-Nov-2025 19:22:07] NOTICE: ready to handle connections
+[30-Nov-2025 19:22:07] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:22:12] NOTICE: Terminating ...
+[30-Nov-2025 19:22:12] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:22:13] NOTICE: fpm is running, pid 1975
+[30-Nov-2025 19:22:13] NOTICE: ready to handle connections
+[30-Nov-2025 19:22:13] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:22:18] NOTICE: Terminating ...
+[30-Nov-2025 19:22:18] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:22:19] NOTICE: fpm is running, pid 1991
+[30-Nov-2025 19:22:19] NOTICE: ready to handle connections
+[30-Nov-2025 19:22:19] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:22:24] NOTICE: Terminating ...
+[30-Nov-2025 19:22:24] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:22:25] NOTICE: fpm is running, pid 2007
+[30-Nov-2025 19:22:25] NOTICE: ready to handle connections
+[30-Nov-2025 19:22:25] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:22:30] NOTICE: Terminating ...
+[30-Nov-2025 19:22:30] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:22:31] NOTICE: fpm is running, pid 2023
+[30-Nov-2025 19:22:31] NOTICE: ready to handle connections
+[30-Nov-2025 19:22:31] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:22:36] NOTICE: Terminating ...
+[30-Nov-2025 19:22:36] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:22:37] NOTICE: fpm is running, pid 2039
+[30-Nov-2025 19:22:37] NOTICE: ready to handle connections
+[30-Nov-2025 19:22:37] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:22:42] NOTICE: Terminating ...
+[30-Nov-2025 19:22:42] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:22:43] NOTICE: fpm is running, pid 2055
+[30-Nov-2025 19:22:43] NOTICE: ready to handle connections
+[30-Nov-2025 19:22:43] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:22:48] NOTICE: Terminating ...
+[30-Nov-2025 19:22:48] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:22:49] NOTICE: fpm is running, pid 2071
+[30-Nov-2025 19:22:49] NOTICE: ready to handle connections
+[30-Nov-2025 19:22:49] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:22:54] NOTICE: Terminating ...
+[30-Nov-2025 19:22:54] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:22:55] NOTICE: fpm is running, pid 2087
+[30-Nov-2025 19:22:56] NOTICE: ready to handle connections
+[30-Nov-2025 19:22:56] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:23:01] NOTICE: Terminating ...
+[30-Nov-2025 19:23:01] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:23:02] NOTICE: fpm is running, pid 2103
+[30-Nov-2025 19:23:02] NOTICE: ready to handle connections
+[30-Nov-2025 19:23:02] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:23:07] NOTICE: Terminating ...
+[30-Nov-2025 19:23:07] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:23:08] NOTICE: fpm is running, pid 2119
+[30-Nov-2025 19:23:08] NOTICE: ready to handle connections
+[30-Nov-2025 19:23:08] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:23:13] NOTICE: Terminating ...
+[30-Nov-2025 19:23:13] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:23:14] NOTICE: fpm is running, pid 2135
+[30-Nov-2025 19:23:14] NOTICE: ready to handle connections
+[30-Nov-2025 19:23:14] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:23:19] NOTICE: Terminating ...
+[30-Nov-2025 19:23:19] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:23:20] NOTICE: fpm is running, pid 2151
+[30-Nov-2025 19:23:20] NOTICE: ready to handle connections
+[30-Nov-2025 19:23:20] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:23:24] NOTICE: Terminating ...
+[30-Nov-2025 19:23:24] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:23:25] NOTICE: fpm is running, pid 2167
+[30-Nov-2025 19:23:25] NOTICE: ready to handle connections
+[30-Nov-2025 19:23:25] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:23:30] NOTICE: Terminating ...
+[30-Nov-2025 19:23:30] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:23:31] NOTICE: fpm is running, pid 2183
+[30-Nov-2025 19:23:31] NOTICE: ready to handle connections
+[30-Nov-2025 19:23:31] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:23:36] NOTICE: Terminating ...
+[30-Nov-2025 19:23:36] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:23:37] NOTICE: fpm is running, pid 2199
+[30-Nov-2025 19:23:37] NOTICE: ready to handle connections
+[30-Nov-2025 19:23:37] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:23:42] NOTICE: Terminating ...
+[30-Nov-2025 19:23:42] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:23:43] NOTICE: fpm is running, pid 2215
+[30-Nov-2025 19:23:43] NOTICE: ready to handle connections
+[30-Nov-2025 19:23:43] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:23:48] NOTICE: Terminating ...
+[30-Nov-2025 19:23:48] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:23:49] NOTICE: fpm is running, pid 2231
+[30-Nov-2025 19:23:49] NOTICE: ready to handle connections
+[30-Nov-2025 19:23:49] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:23:54] NOTICE: Terminating ...
+[30-Nov-2025 19:23:54] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:23:55] NOTICE: fpm is running, pid 2247
+[30-Nov-2025 19:23:55] NOTICE: ready to handle connections
+[30-Nov-2025 19:23:55] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:00] NOTICE: Terminating ...
+[30-Nov-2025 19:24:00] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:24:01] NOTICE: fpm is running, pid 2263
+[30-Nov-2025 19:24:01] NOTICE: ready to handle connections
+[30-Nov-2025 19:24:01] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:05] NOTICE: Terminating ...
+[30-Nov-2025 19:24:05] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:24:06] NOTICE: fpm is running, pid 2279
+[30-Nov-2025 19:24:06] NOTICE: ready to handle connections
+[30-Nov-2025 19:24:06] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:10] NOTICE: Terminating ...
+[30-Nov-2025 19:24:10] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:24:11] NOTICE: fpm is running, pid 2295
+[30-Nov-2025 19:24:11] NOTICE: ready to handle connections
+[30-Nov-2025 19:24:11] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:16] NOTICE: Terminating ...
+[30-Nov-2025 19:24:16] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:24:17] NOTICE: fpm is running, pid 2311
+[30-Nov-2025 19:24:17] NOTICE: ready to handle connections
+[30-Nov-2025 19:24:17] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:22] NOTICE: Terminating ...
+[30-Nov-2025 19:24:22] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:24:23] NOTICE: fpm is running, pid 2327
+[30-Nov-2025 19:24:23] NOTICE: ready to handle connections
+[30-Nov-2025 19:24:23] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:28] NOTICE: Terminating ...
+[30-Nov-2025 19:24:28] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:24:29] NOTICE: fpm is running, pid 2343
+[30-Nov-2025 19:24:29] NOTICE: ready to handle connections
+[30-Nov-2025 19:24:29] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:34] NOTICE: Terminating ...
+[30-Nov-2025 19:24:34] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:24:35] NOTICE: fpm is running, pid 2359
+[30-Nov-2025 19:24:35] NOTICE: ready to handle connections
+[30-Nov-2025 19:24:35] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:40] NOTICE: Terminating ...
+[30-Nov-2025 19:24:40] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:24:41] NOTICE: fpm is running, pid 2375
+[30-Nov-2025 19:24:41] NOTICE: ready to handle connections
+[30-Nov-2025 19:24:41] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:46] NOTICE: Terminating ...
+[30-Nov-2025 19:24:46] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:24:48] NOTICE: fpm is running, pid 2391
+[30-Nov-2025 19:24:48] NOTICE: ready to handle connections
+[30-Nov-2025 19:24:48] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:53] NOTICE: Terminating ...
+[30-Nov-2025 19:24:53] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:24:54] NOTICE: fpm is running, pid 2407
+[30-Nov-2025 19:24:54] NOTICE: ready to handle connections
+[30-Nov-2025 19:24:54] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:24:59] NOTICE: Terminating ...
+[30-Nov-2025 19:24:59] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:25:00] NOTICE: fpm is running, pid 2423
+[30-Nov-2025 19:25:00] NOTICE: ready to handle connections
+[30-Nov-2025 19:25:00] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:25:05] NOTICE: Terminating ...
+[30-Nov-2025 19:25:05] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:25:06] NOTICE: fpm is running, pid 2439
+[30-Nov-2025 19:25:06] NOTICE: ready to handle connections
+[30-Nov-2025 19:25:06] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:25:11] NOTICE: Terminating ...
+[30-Nov-2025 19:25:11] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:25:12] NOTICE: fpm is running, pid 2455
+[30-Nov-2025 19:25:12] NOTICE: ready to handle connections
+[30-Nov-2025 19:25:12] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:25:17] NOTICE: Terminating ...
+[30-Nov-2025 19:25:17] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:25:18] NOTICE: fpm is running, pid 2471
+[30-Nov-2025 19:25:18] NOTICE: ready to handle connections
+[30-Nov-2025 19:25:18] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:25:23] NOTICE: Terminating ...
+[30-Nov-2025 19:25:23] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:25:24] NOTICE: fpm is running, pid 2487
+[30-Nov-2025 19:25:24] NOTICE: ready to handle connections
+[30-Nov-2025 19:25:24] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:25:29] NOTICE: Terminating ...
+[30-Nov-2025 19:25:29] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:25:30] NOTICE: fpm is running, pid 2503
+[30-Nov-2025 19:25:30] NOTICE: ready to handle connections
+[30-Nov-2025 19:25:30] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:25:34] NOTICE: Terminating ...
+[30-Nov-2025 19:25:34] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:25:35] NOTICE: fpm is running, pid 2519
+[30-Nov-2025 19:25:35] NOTICE: ready to handle connections
+[30-Nov-2025 19:25:35] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:25:40] NOTICE: Terminating ...
+[30-Nov-2025 19:25:40] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:25:41] NOTICE: fpm is running, pid 2535
+[30-Nov-2025 19:25:41] NOTICE: ready to handle connections
+[30-Nov-2025 19:25:41] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:25:47] NOTICE: Terminating ...
+[30-Nov-2025 19:25:47] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:25:48] NOTICE: fpm is running, pid 2551
+[30-Nov-2025 19:25:48] NOTICE: ready to handle connections
+[30-Nov-2025 19:25:48] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:25:53] NOTICE: Terminating ...
+[30-Nov-2025 19:25:53] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:25:54] NOTICE: fpm is running, pid 2567
+[30-Nov-2025 19:25:54] NOTICE: ready to handle connections
+[30-Nov-2025 19:25:54] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:25:59] NOTICE: Terminating ...
+[30-Nov-2025 19:25:59] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:00] NOTICE: fpm is running, pid 2583
+[30-Nov-2025 19:26:00] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:00] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:26:05] NOTICE: Terminating ...
+[30-Nov-2025 19:26:05] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:06] NOTICE: fpm is running, pid 2599
+[30-Nov-2025 19:26:06] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:06] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:26:11] NOTICE: Terminating ...
+[30-Nov-2025 19:26:11] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:12] NOTICE: fpm is running, pid 2615
+[30-Nov-2025 19:26:12] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:12] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:26:17] NOTICE: Terminating ...
+[30-Nov-2025 19:26:17] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:18] NOTICE: fpm is running, pid 2631
+[30-Nov-2025 19:26:18] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:18] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:26:23] NOTICE: Terminating ...
+[30-Nov-2025 19:26:23] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:24] NOTICE: fpm is running, pid 2647
+[30-Nov-2025 19:26:24] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:24] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:26:29] NOTICE: Terminating ...
+[30-Nov-2025 19:26:29] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:30] NOTICE: fpm is running, pid 2663
+[30-Nov-2025 19:26:30] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:30] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:26:35] NOTICE: Terminating ...
+[30-Nov-2025 19:26:35] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:36] NOTICE: fpm is running, pid 2679
+[30-Nov-2025 19:26:36] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:36] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:26:41] NOTICE: Terminating ...
+[30-Nov-2025 19:26:41] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:43] NOTICE: fpm is running, pid 2695
+[30-Nov-2025 19:26:43] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:43] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:26:48] NOTICE: Terminating ...
+[30-Nov-2025 19:26:48] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:49] NOTICE: fpm is running, pid 2711
+[30-Nov-2025 19:26:49] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:49] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:26:53] NOTICE: Terminating ...
+[30-Nov-2025 19:26:53] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:54] NOTICE: fpm is running, pid 2727
+[30-Nov-2025 19:26:54] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:54] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:26:58] NOTICE: Terminating ...
+[30-Nov-2025 19:26:58] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:26:59] NOTICE: fpm is running, pid 2743
+[30-Nov-2025 19:26:59] NOTICE: ready to handle connections
+[30-Nov-2025 19:26:59] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:27:04] NOTICE: Terminating ...
+[30-Nov-2025 19:27:04] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:27:05] NOTICE: fpm is running, pid 2759
+[30-Nov-2025 19:27:05] NOTICE: ready to handle connections
+[30-Nov-2025 19:27:05] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:27:10] NOTICE: Terminating ...
+[30-Nov-2025 19:27:10] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:27:11] NOTICE: fpm is running, pid 2775
+[30-Nov-2025 19:27:11] NOTICE: ready to handle connections
+[30-Nov-2025 19:27:11] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:27:16] NOTICE: Terminating ...
+[30-Nov-2025 19:27:16] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:27:17] NOTICE: fpm is running, pid 2791
+[30-Nov-2025 19:27:17] NOTICE: ready to handle connections
+[30-Nov-2025 19:27:17] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:27:22] NOTICE: Terminating ...
+[30-Nov-2025 19:27:22] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:27:23] NOTICE: fpm is running, pid 2807
+[30-Nov-2025 19:27:23] NOTICE: ready to handle connections
+[30-Nov-2025 19:27:23] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:27:28] NOTICE: Terminating ...
+[30-Nov-2025 19:27:28] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:27:29] NOTICE: fpm is running, pid 2823
+[30-Nov-2025 19:27:29] NOTICE: ready to handle connections
+[30-Nov-2025 19:27:29] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:27:35] NOTICE: Terminating ...
+[30-Nov-2025 19:27:35] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:27:36] NOTICE: fpm is running, pid 2839
+[30-Nov-2025 19:27:36] NOTICE: ready to handle connections
+[30-Nov-2025 19:27:36] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:27:41] NOTICE: Terminating ...
+[30-Nov-2025 19:27:41] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:27:42] NOTICE: fpm is running, pid 2855
+[30-Nov-2025 19:27:42] NOTICE: ready to handle connections
+[30-Nov-2025 19:27:42] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:27:47] NOTICE: Terminating ...
+[30-Nov-2025 19:27:47] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:27:48] NOTICE: fpm is running, pid 2871
+[30-Nov-2025 19:27:48] NOTICE: ready to handle connections
+[30-Nov-2025 19:27:48] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:27:53] NOTICE: Terminating ...
+[30-Nov-2025 19:27:53] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:27:54] NOTICE: fpm is running, pid 2887
+[30-Nov-2025 19:27:54] NOTICE: ready to handle connections
+[30-Nov-2025 19:27:54] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:27:59] NOTICE: Terminating ...
+[30-Nov-2025 19:27:59] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:28:00] NOTICE: fpm is running, pid 2903
+[30-Nov-2025 19:28:00] NOTICE: ready to handle connections
+[30-Nov-2025 19:28:00] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:28:05] NOTICE: Terminating ...
+[30-Nov-2025 19:28:05] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:28:06] NOTICE: fpm is running, pid 2919
+[30-Nov-2025 19:28:06] NOTICE: ready to handle connections
+[30-Nov-2025 19:28:06] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:28:11] NOTICE: Terminating ...
+[30-Nov-2025 19:28:11] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:28:12] NOTICE: fpm is running, pid 2935
+[30-Nov-2025 19:28:12] NOTICE: ready to handle connections
+[30-Nov-2025 19:28:12] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:28:17] NOTICE: Terminating ...
+[30-Nov-2025 19:28:17] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:28:18] NOTICE: fpm is running, pid 2951
+[30-Nov-2025 19:28:18] NOTICE: ready to handle connections
+[30-Nov-2025 19:28:18] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:28:23] NOTICE: Terminating ...
+[30-Nov-2025 19:28:23] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:28:24] NOTICE: fpm is running, pid 2967
+[30-Nov-2025 19:28:24] NOTICE: ready to handle connections
+[30-Nov-2025 19:28:24] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:28:30] NOTICE: Terminating ...
+[30-Nov-2025 19:28:30] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:28:31] NOTICE: fpm is running, pid 2983
+[30-Nov-2025 19:28:31] NOTICE: ready to handle connections
+[30-Nov-2025 19:28:31] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:28:36] NOTICE: Terminating ...
+[30-Nov-2025 19:28:36] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:28:37] NOTICE: fpm is running, pid 2999
+[30-Nov-2025 19:28:37] NOTICE: ready to handle connections
+[30-Nov-2025 19:28:37] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:28:42] NOTICE: Terminating ...
+[30-Nov-2025 19:28:42] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:28:43] NOTICE: fpm is running, pid 3015
+[30-Nov-2025 19:28:43] NOTICE: ready to handle connections
+[30-Nov-2025 19:28:43] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:28:48] NOTICE: Terminating ...
+[30-Nov-2025 19:28:48] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:28:49] NOTICE: fpm is running, pid 3031
+[30-Nov-2025 19:28:49] NOTICE: ready to handle connections
+[30-Nov-2025 19:28:49] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:28:54] NOTICE: Terminating ...
+[30-Nov-2025 19:28:54] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:28:55] NOTICE: fpm is running, pid 3047
+[30-Nov-2025 19:28:55] NOTICE: ready to handle connections
+[30-Nov-2025 19:28:55] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:00] NOTICE: Terminating ...
+[30-Nov-2025 19:29:00] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:01] NOTICE: fpm is running, pid 3063
+[30-Nov-2025 19:29:01] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:01] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:05] NOTICE: Terminating ...
+[30-Nov-2025 19:29:05] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:06] NOTICE: fpm is running, pid 3079
+[30-Nov-2025 19:29:06] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:06] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:11] NOTICE: Terminating ...
+[30-Nov-2025 19:29:11] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:12] NOTICE: fpm is running, pid 3095
+[30-Nov-2025 19:29:12] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:12] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:17] NOTICE: Terminating ...
+[30-Nov-2025 19:29:17] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:18] NOTICE: fpm is running, pid 3111
+[30-Nov-2025 19:29:18] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:18] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:23] NOTICE: Terminating ...
+[30-Nov-2025 19:29:23] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:25] NOTICE: fpm is running, pid 3127
+[30-Nov-2025 19:29:25] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:25] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:29] NOTICE: Terminating ...
+[30-Nov-2025 19:29:29] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:30] NOTICE: fpm is running, pid 3143
+[30-Nov-2025 19:29:30] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:30] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:35] NOTICE: Terminating ...
+[30-Nov-2025 19:29:35] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:36] NOTICE: fpm is running, pid 3159
+[30-Nov-2025 19:29:36] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:36] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:41] NOTICE: Terminating ...
+[30-Nov-2025 19:29:41] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:42] NOTICE: fpm is running, pid 3175
+[30-Nov-2025 19:29:42] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:42] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:45] NOTICE: Terminating ...
+[30-Nov-2025 19:29:45] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:46] NOTICE: fpm is running, pid 3191
+[30-Nov-2025 19:29:46] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:46] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:51] NOTICE: Terminating ...
+[30-Nov-2025 19:29:51] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:52] NOTICE: fpm is running, pid 3207
+[30-Nov-2025 19:29:52] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:52] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:29:57] NOTICE: Terminating ...
+[30-Nov-2025 19:29:57] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:29:58] NOTICE: fpm is running, pid 3223
+[30-Nov-2025 19:29:58] NOTICE: ready to handle connections
+[30-Nov-2025 19:29:58] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:30:03] NOTICE: Terminating ...
+[30-Nov-2025 19:30:03] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:30:04] NOTICE: fpm is running, pid 3239
+[30-Nov-2025 19:30:04] NOTICE: ready to handle connections
+[30-Nov-2025 19:30:04] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:30:09] NOTICE: Terminating ...
+[30-Nov-2025 19:30:09] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:30:10] NOTICE: fpm is running, pid 3255
+[30-Nov-2025 19:30:10] NOTICE: ready to handle connections
+[30-Nov-2025 19:30:10] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:30:16] NOTICE: Terminating ...
+[30-Nov-2025 19:30:16] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:30:17] NOTICE: fpm is running, pid 3271
+[30-Nov-2025 19:30:17] NOTICE: ready to handle connections
+[30-Nov-2025 19:30:17] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:30:22] NOTICE: Terminating ...
+[30-Nov-2025 19:30:22] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:30:23] NOTICE: fpm is running, pid 3287
+[30-Nov-2025 19:30:23] NOTICE: ready to handle connections
+[30-Nov-2025 19:30:23] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:30:28] NOTICE: Terminating ...
+[30-Nov-2025 19:30:28] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:30:29] NOTICE: fpm is running, pid 3303
+[30-Nov-2025 19:30:29] NOTICE: ready to handle connections
+[30-Nov-2025 19:30:29] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:30:34] NOTICE: Terminating ...
+[30-Nov-2025 19:30:34] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:30:35] NOTICE: fpm is running, pid 3319
+[30-Nov-2025 19:30:35] NOTICE: ready to handle connections
+[30-Nov-2025 19:30:35] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:30:40] NOTICE: Terminating ...
+[30-Nov-2025 19:30:40] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:30:41] NOTICE: fpm is running, pid 3335
+[30-Nov-2025 19:30:41] NOTICE: ready to handle connections
+[30-Nov-2025 19:30:41] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:30:46] NOTICE: Terminating ...
+[30-Nov-2025 19:30:46] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:30:47] NOTICE: fpm is running, pid 3351
+[30-Nov-2025 19:30:47] NOTICE: ready to handle connections
+[30-Nov-2025 19:30:47] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:30:52] NOTICE: Terminating ...
+[30-Nov-2025 19:30:52] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:30:53] NOTICE: fpm is running, pid 3367
+[30-Nov-2025 19:30:53] NOTICE: ready to handle connections
+[30-Nov-2025 19:30:53] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:30:58] NOTICE: Terminating ...
+[30-Nov-2025 19:30:58] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:30:59] NOTICE: fpm is running, pid 3383
+[30-Nov-2025 19:30:59] NOTICE: ready to handle connections
+[30-Nov-2025 19:30:59] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:31:04] NOTICE: Terminating ...
+[30-Nov-2025 19:31:04] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:31:05] NOTICE: fpm is running, pid 3399
+[30-Nov-2025 19:31:05] NOTICE: ready to handle connections
+[30-Nov-2025 19:31:05] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:31:10] NOTICE: Terminating ...
+[30-Nov-2025 19:31:10] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:31:12] NOTICE: fpm is running, pid 3415
+[30-Nov-2025 19:31:12] NOTICE: ready to handle connections
+[30-Nov-2025 19:31:12] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:31:17] NOTICE: Terminating ...
+[30-Nov-2025 19:31:17] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:31:18] NOTICE: fpm is running, pid 3431
+[30-Nov-2025 19:31:18] NOTICE: ready to handle connections
+[30-Nov-2025 19:31:18] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:31:23] NOTICE: Terminating ...
+[30-Nov-2025 19:31:23] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:31:24] NOTICE: fpm is running, pid 3447
+[30-Nov-2025 19:31:24] NOTICE: ready to handle connections
+[30-Nov-2025 19:31:24] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:31:29] NOTICE: Terminating ...
+[30-Nov-2025 19:31:29] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:31:30] NOTICE: fpm is running, pid 3463
+[30-Nov-2025 19:31:30] NOTICE: ready to handle connections
+[30-Nov-2025 19:31:30] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:31:35] NOTICE: Terminating ...
+[30-Nov-2025 19:31:35] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:31:36] NOTICE: fpm is running, pid 3479
+[30-Nov-2025 19:31:36] NOTICE: ready to handle connections
+[30-Nov-2025 19:31:36] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:31:41] NOTICE: Terminating ...
+[30-Nov-2025 19:31:41] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:31:42] NOTICE: fpm is running, pid 3495
+[30-Nov-2025 19:31:42] NOTICE: ready to handle connections
+[30-Nov-2025 19:31:42] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:31:47] NOTICE: Terminating ...
+[30-Nov-2025 19:31:47] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:31:48] NOTICE: fpm is running, pid 3511
+[30-Nov-2025 19:31:48] NOTICE: ready to handle connections
+[30-Nov-2025 19:31:48] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:31:53] NOTICE: Terminating ...
+[30-Nov-2025 19:31:53] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:31:54] NOTICE: fpm is running, pid 3527
+[30-Nov-2025 19:31:54] NOTICE: ready to handle connections
+[30-Nov-2025 19:31:54] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:31:59] NOTICE: Terminating ...
+[30-Nov-2025 19:31:59] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:32:00] NOTICE: fpm is running, pid 3543
+[30-Nov-2025 19:32:00] NOTICE: ready to handle connections
+[30-Nov-2025 19:32:00] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:32:05] NOTICE: Terminating ...
+[30-Nov-2025 19:32:05] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:32:06] NOTICE: fpm is running, pid 3559
+[30-Nov-2025 19:32:06] NOTICE: ready to handle connections
+[30-Nov-2025 19:32:06] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:32:12] NOTICE: Terminating ...
+[30-Nov-2025 19:32:12] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:32:13] NOTICE: fpm is running, pid 3575
+[30-Nov-2025 19:32:13] NOTICE: ready to handle connections
+[30-Nov-2025 19:32:13] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:32:18] NOTICE: Terminating ...
+[30-Nov-2025 19:32:18] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:32:19] NOTICE: fpm is running, pid 3591
+[30-Nov-2025 19:32:19] NOTICE: ready to handle connections
+[30-Nov-2025 19:32:19] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:32:24] NOTICE: Terminating ...
+[30-Nov-2025 19:32:24] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:32:24] NOTICE: fpm is running, pid 3607
+[30-Nov-2025 19:32:24] NOTICE: ready to handle connections
+[30-Nov-2025 19:32:24] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:32:29] NOTICE: Terminating ...
+[30-Nov-2025 19:32:29] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:32:30] NOTICE: fpm is running, pid 3623
+[30-Nov-2025 19:32:30] NOTICE: ready to handle connections
+[30-Nov-2025 19:32:30] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:32:35] NOTICE: Terminating ...
+[30-Nov-2025 19:32:35] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:32:36] NOTICE: fpm is running, pid 3639
+[30-Nov-2025 19:32:36] NOTICE: ready to handle connections
+[30-Nov-2025 19:32:36] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:32:41] NOTICE: Terminating ...
+[30-Nov-2025 19:32:41] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:32:42] NOTICE: fpm is running, pid 3655
+[30-Nov-2025 19:32:42] NOTICE: ready to handle connections
+[30-Nov-2025 19:32:42] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:32:49] NOTICE: Terminating ...
+[30-Nov-2025 19:32:49] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:32:50] NOTICE: fpm is running, pid 3671
+[30-Nov-2025 19:32:50] NOTICE: ready to handle connections
+[30-Nov-2025 19:32:50] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:32:55] NOTICE: Terminating ...
+[30-Nov-2025 19:32:55] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:32:56] NOTICE: fpm is running, pid 3687
+[30-Nov-2025 19:32:56] NOTICE: ready to handle connections
+[30-Nov-2025 19:32:56] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:33:01] NOTICE: Terminating ...
+[30-Nov-2025 19:33:01] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:33:02] NOTICE: fpm is running, pid 3703
+[30-Nov-2025 19:33:02] NOTICE: ready to handle connections
+[30-Nov-2025 19:33:02] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:33:07] NOTICE: Terminating ...
+[30-Nov-2025 19:33:07] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:33:08] NOTICE: fpm is running, pid 3719
+[30-Nov-2025 19:33:08] NOTICE: ready to handle connections
+[30-Nov-2025 19:33:08] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:33:13] NOTICE: Terminating ...
+[30-Nov-2025 19:33:13] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:33:14] NOTICE: fpm is running, pid 3735
+[30-Nov-2025 19:33:14] NOTICE: ready to handle connections
+[30-Nov-2025 19:33:14] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:33:19] NOTICE: Terminating ...
+[30-Nov-2025 19:33:19] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:33:20] NOTICE: fpm is running, pid 3751
+[30-Nov-2025 19:33:20] NOTICE: ready to handle connections
+[30-Nov-2025 19:33:20] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:33:26] NOTICE: Terminating ...
+[30-Nov-2025 19:33:26] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:33:27] NOTICE: fpm is running, pid 3767
+[30-Nov-2025 19:33:27] NOTICE: ready to handle connections
+[30-Nov-2025 19:33:27] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:33:32] NOTICE: Terminating ...
+[30-Nov-2025 19:33:32] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:33:33] NOTICE: fpm is running, pid 3783
+[30-Nov-2025 19:33:33] NOTICE: ready to handle connections
+[30-Nov-2025 19:33:33] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:33:38] NOTICE: Terminating ...
+[30-Nov-2025 19:33:38] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:33:40] NOTICE: fpm is running, pid 3799
+[30-Nov-2025 19:33:40] NOTICE: ready to handle connections
+[30-Nov-2025 19:33:40] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:33:45] NOTICE: Terminating ...
+[30-Nov-2025 19:33:45] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:33:46] NOTICE: fpm is running, pid 3815
+[30-Nov-2025 19:33:46] NOTICE: ready to handle connections
+[30-Nov-2025 19:33:46] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:33:51] NOTICE: Terminating ...
+[30-Nov-2025 19:33:51] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:33:52] NOTICE: fpm is running, pid 3831
+[30-Nov-2025 19:33:52] NOTICE: ready to handle connections
+[30-Nov-2025 19:33:52] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:33:57] NOTICE: Terminating ...
+[30-Nov-2025 19:33:57] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:33:58] NOTICE: fpm is running, pid 3847
+[30-Nov-2025 19:33:58] NOTICE: ready to handle connections
+[30-Nov-2025 19:33:58] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:34:01] NOTICE: Terminating ...
+[30-Nov-2025 19:34:01] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:34:02] NOTICE: fpm is running, pid 3860
+[30-Nov-2025 19:34:02] NOTICE: ready to handle connections
+[30-Nov-2025 19:34:02] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:34:07] NOTICE: Terminating ...
+[30-Nov-2025 19:34:07] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:34:08] NOTICE: fpm is running, pid 3876
+[30-Nov-2025 19:34:08] NOTICE: ready to handle connections
+[30-Nov-2025 19:34:08] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:34:13] NOTICE: Terminating ...
+[30-Nov-2025 19:34:13] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:34:14] NOTICE: fpm is running, pid 3892
+[30-Nov-2025 19:34:14] NOTICE: ready to handle connections
+[30-Nov-2025 19:34:14] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:34:19] NOTICE: Terminating ...
+[30-Nov-2025 19:34:19] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:34:20] NOTICE: fpm is running, pid 3908
+[30-Nov-2025 19:34:20] NOTICE: ready to handle connections
+[30-Nov-2025 19:34:20] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:34:25] NOTICE: Terminating ...
+[30-Nov-2025 19:34:25] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:34:26] NOTICE: fpm is running, pid 3924
+[30-Nov-2025 19:34:26] NOTICE: ready to handle connections
+[30-Nov-2025 19:34:26] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:34:31] NOTICE: Terminating ...
+[30-Nov-2025 19:34:31] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:34:32] NOTICE: fpm is running, pid 3940
+[30-Nov-2025 19:34:32] NOTICE: ready to handle connections
+[30-Nov-2025 19:34:32] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:34:37] NOTICE: Terminating ...
+[30-Nov-2025 19:34:37] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:34:38] NOTICE: fpm is running, pid 3956
+[30-Nov-2025 19:34:38] NOTICE: ready to handle connections
+[30-Nov-2025 19:34:38] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:34:44] NOTICE: Terminating ...
+[30-Nov-2025 19:34:44] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:34:45] NOTICE: fpm is running, pid 3972
+[30-Nov-2025 19:34:45] NOTICE: ready to handle connections
+[30-Nov-2025 19:34:45] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:34:59] NOTICE: Terminating ...
+[30-Nov-2025 19:34:59] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:35:00] NOTICE: fpm is running, pid 3989
+[30-Nov-2025 19:35:00] NOTICE: ready to handle connections
+[30-Nov-2025 19:35:00] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:41:07] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:41:08] NOTICE: fpm is running, pid 4006
+[30-Nov-2025 19:41:08] NOTICE: ready to handle connections
+[30-Nov-2025 19:41:08] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:47:55] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:47:56] NOTICE: fpm is running, pid 4023
+[30-Nov-2025 19:47:56] NOTICE: ready to handle connections
+[30-Nov-2025 19:47:56] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:49:15] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:49:16] NOTICE: fpm is running, pid 4040
+[30-Nov-2025 19:49:16] NOTICE: ready to handle connections
+[30-Nov-2025 19:49:16] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 19:54:10] NOTICE: exiting, bye-bye!
+[30-Nov-2025 19:54:11] NOTICE: fpm is running, pid 4057
+[30-Nov-2025 19:54:11] NOTICE: ready to handle connections
+[30-Nov-2025 19:54:11] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 20:07:31] NOTICE: exiting, bye-bye!
+[30-Nov-2025 20:07:32] NOTICE: fpm is running, pid 4074
+[30-Nov-2025 20:07:32] NOTICE: ready to handle connections
+[30-Nov-2025 20:07:32] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 20:15:29] NOTICE: exiting, bye-bye!
+[30-Nov-2025 20:15:30] NOTICE: fpm is running, pid 4091
+[30-Nov-2025 20:15:30] NOTICE: ready to handle connections
+[30-Nov-2025 20:15:30] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 20:25:05] NOTICE: exiting, bye-bye!
+[30-Nov-2025 20:26:38] NOTICE: fpm is running, pid 1268
+[30-Nov-2025 20:26:38] NOTICE: ready to handle connections
+[30-Nov-2025 20:26:38] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 20:41:39] ERROR: unable to bind listening socket for address '127.0.0.1:9000': Address already in use (98)
+[30-Nov-2025 20:41:39] ERROR: FPM initialization failed
+[30-Nov-2025 20:41:56] NOTICE: Terminating ...
+[30-Nov-2025 20:41:56] NOTICE: exiting, bye-bye!
+[30-Nov-2025 20:56:31] NOTICE: fpm is running, pid 151
+[30-Nov-2025 20:56:31] NOTICE: ready to handle connections
+[30-Nov-2025 20:56:31] NOTICE: systemd monitor interval set to 10000ms
+[30-Nov-2025 21:15:37] NOTICE: exiting, bye-bye!
